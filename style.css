@@ -34,7 +34,7 @@ body{
 .container input{
     height: 50px;
     width: 100%;
-    background-color: white;
+    background: white;
     border: 1px solid #d1d1d1;
     margin: 10px 0 20px;
     border-radius: 5px;
